@@ -1,0 +1,36 @@
+[
+ 
+  {
+    "id": 1,
+    "name": "Half Day Visit",
+    "price": "15.00",
+    "image_url": "https://i.imgur.com/XNaottx.png",
+    "description": "A half day visit lasts up to 7 hours and includes supervised playtime with other dogs and outdoor walks."
+  },
+
+  {
+    "id": 2,
+    "name": "Full Day Visit",
+    "price": "24.00",
+    "image_url": "https://i.imgur.com/Ni03wwq.jpeg",
+    "description": "Your four-legger can play the day away with other dogs.  Full day visits last 7 to 12 hours and include multiple outdoor walks and a healthy snack."
+  },
+
+  {
+    "id": 3,
+    "name": "Overnight Stay",
+    "price": "20.00",
+    "description": "Book an overnight stay for your special four-legger! Includes dinner, an evening walk, and a tasty goodnight treat!",
+    "image_url": "https://i.imgur.com/0862N0y.jpg",
+    "filename": "halfday.png",
+    "hash": "QmRxRfy4Y1ASEKUjVBPqtoB1JXy1ErPXwXQhbvL7uXHmn7"
+  },
+
+  {
+    "id": 4,
+    "name": "Swimming Lessons",
+    "price": "25.00",
+    "image_url": "https://i.imgur.com/0L8LjSa.jpg",
+    "description": "This one-on-one swimming opportunity gives your special four-legger the chance to work with one of our trainers in our on-site doggie pool.  A 2-hour sessions includes a walk break and healthy snack."
+  }
+]
